@@ -1,7 +1,7 @@
 {
     "version": "0.0.4",
     "name": "config.json",
-    "versid": "id_QVh4cS9vMXppek1zZS9VR0lmZWQvZz09",
+    "versid": "id_eFEza1ZYMWxBZm9ta3krYStoS3lHZz09",
     "description": "nconf wrapper that simplifies work with environment specific configuration files.",
     "keywords": [
         "configuration",
